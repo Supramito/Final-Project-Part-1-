@@ -22,7 +22,7 @@ Navigation: The robot will use GPS and sensors to navigate public spaces, avoidi
 User Interaction: It will have a user-friendly interface, allowing users to input destinations and receive audio or visual guidance.
 Support Features: The robot will be equipped with a seat for users to rest if needed and a storage compartment for personal items.
 
-Prototype Development: By the end of the course, I will use the VEX EXP kit and 3D printing to create a working prototype of the Mobility Assistant Robot.
+**Prototype Development:** By the end of the course, I will use the VEX EXP kit and 3D printing to create a working prototype of the Mobility Assistant Robot.
 Programming: The robot will be programmed to carry out navigation tasks and respond to user commands effectively.
 
 
